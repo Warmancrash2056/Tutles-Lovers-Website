@@ -1,0 +1,18 @@
+body{
+    background-color: green;
+}
+
+.head{
+    text-align: center;
+    font-size: 50px;
+}
+
+.origin{
+    text-align: center;
+    font-size: 30px;
+}
+
+.care{
+    text-align: center;
+    font-size: 30px;
+}
