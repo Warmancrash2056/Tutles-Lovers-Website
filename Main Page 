@@ -1,0 +1,58 @@
+body{
+    background-color: green;
+
+}
+
+.Title{
+    text-align: center;
+    font-size: 80px;
+
+}
+
+.Slogan{
+    text-align: center;
+    font-size: 30px;
+}
+
+.Title_Image{
+    overflow: hidden;
+    height: 500px;
+    width: 1670px;
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+    float: inline-start;
+
+    
+}
+/*Navigation Section*/
+ .topnav {
+    background-color: black;
+    /* Clips the content to fit into the spacebar  */
+    overflow: hidden;
+            }
+        
+        /* Style the links inside the navigation bar */
+            .topnav a {
+             float: left;;
+             color: white;
+            text-align: center;
+            padding: 12px 170px;
+            text-decoration: none;
+            font-size: 12px;
+            font-family: 'Times New Roman';
+            }
+        
+            /* Change the color of links on hover */
+            .topnav a:hover {
+            background-color: darkolivegreen;
+            color: black;
+            }
+        
+            /* Add a color to the active/current link */
+            .topnav a:active {
+                background-color: darkkhaki;
+                color: black;
+    
+            }
